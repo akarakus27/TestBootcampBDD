@@ -1,4 +1,5 @@
-# Test Bootcamp BDD
+# Test Bootcamp
+BDD ile Test otomasyonu
 
 
 # Requirements  
